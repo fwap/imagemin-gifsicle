@@ -29,7 +29,7 @@
 	],
 	"dependencies": {
 		"execa": "^6.1.0",
-		"gifsicle": "^7.0.1",
+		"gifsicle": "https://github.com/fwap/gifsicle-bin.git",
 		"is-gif": "^4.0.1"
 	},
 	"devDependencies": {
